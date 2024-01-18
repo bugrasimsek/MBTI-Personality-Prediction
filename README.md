@@ -1,5 +1,5 @@
 # MBTI Personality Prediction
-This repository is for a machine learning project I completed as a final assignment at Hacettepe University. In this project, I implemented a prediction model without using libraries such as SciKit-Learn. Instead, I wrote functions from scratch using numpy and pandas.
+A prediction model is implemented without using libraries like SciKit-Learn, instead, necessary functions are written from scratch using numpy and pandas.
 
 The dataset used for this project is available on Kaggle (https://www.kaggle.com/datasets/anshulmehtakaggl/60k-responses-of-16-personalities-test-mbt) and includes 60,000 rows of test data from individuals who have taken the 16 personalities test (MBTI). The program was trained with 48,000 rows each time and tested with 12,000 rows using 5-fold cross-examination.
 
